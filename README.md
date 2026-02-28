@@ -96,6 +96,3 @@ The pipeline extracts structured data like:
 - `invoice_parser.ipynb` - Main notebook with the complete parsing pipeline
 - `idp_architectural_flow.png` - Architecture diagram showing the data flow
 
-## License
-
-This project is for demonstration purposes.
